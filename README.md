@@ -1,2 +1,4 @@
 # conditional-autoencoder
-Conditional sampling from a simple latent space by conditioning the decoder on the class label.
+A conditioned decoder as a generative model.
+
+There's a lot of data plots, do take a look inside the notebooks :)
