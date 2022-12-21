@@ -1,5 +1,5 @@
 # conditional-autoencoder
-A conditioned decoder as a generative model for handwritten digits.
+Analysing and sampling from a conditional autoencoder's latent space.
 
 There's lots of cool plots, and quite a bit of effort went into each notebook, so do take a look inside :)
 
